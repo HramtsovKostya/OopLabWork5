@@ -1,0 +1,24 @@
+{
+  "states" : [ {
+    "@class" : "com.khramtsov.model.states.Monarchy",
+    "name" : "Россия",
+    "capital" : "Москва",
+    "area" : 342,
+    "population" : 4353,
+    "type" : "ABSOLUTE"
+  }, {
+    "@class" : "com.khramtsov.model.states.Republic",
+    "name" : "Китай",
+    "capital" : "Пекин",
+    "area" : 345344,
+    "population" : 343,
+    "type" : "PARLIAMENTARY"
+  }, {
+    "@class" : "com.khramtsov.model.states.Kingdom",
+    "name" : "Англия",
+    "capital" : "Лондон",
+    "area" : 456,
+    "population" : 3456,
+    "type" : "CONSTITUTIONAL"
+  } ]
+}
